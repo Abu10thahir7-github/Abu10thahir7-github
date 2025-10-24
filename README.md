@@ -1,76 +1,84 @@
-<h1 align="center">Hi 👋, I'm Abu Thahir</h1>
-<h3 align="center">💻 MERN Stack Developer | Frontend & UI/UX Designer | Freelancer</h3>
+<!-- Modern GitHub Profile README for Abu Thahir -->
+
+<h1 align="center">👋 Hey, I'm <span style="color:#00BFFF;">Abu Thahir</span></h1>
+<h3 align="center">🚀 MERN Stack Developer | UI/UX Designer | Freelancer</h3>
+
+<p align="center">
+  <a href="https://abu-thahir.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:abuthahir.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abu-thahir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.figma.com/@abu-thahir">
+    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **advanced MERN stack and Next.js**
-- 💼 I’m working as a **Freelance Developer & UI/UX Designer**
-- 👨‍💻 All my projects are available on my portfolio: [https://abu-thahir.vercel.app](https://abu-thahir.vercel.app)
-- 🎨 I design modern web UIs using **Figma**
-- 📫 Reach me at **abu10thahir7@gmail.com**
-- ⚡ Fun fact: I love reading books & playing cricket 🏏
+I'm **Abu Thahir**, a passionate **MERN Stack Developer** and **UI/UX Designer** from **Kerala, India 🇮🇳**.  
+I love creating **modern, scalable, and user-friendly web applications** that merge functionality with elegant design.
+
+- 🌱 Currently exploring **Next.js 15**, **TypeScript**, and **Framer Motion**
+- 💼 Doing **freelance web development** and **UI/UX design**
+- 🧠 Skilled in turning ideas into functional digital products
+- 🎨 Designing pixel-perfect interfaces using **Figma**
+- ⚡ Fun fact: I love reading and playing cricket 🏏
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Frontend
-`HTML5` `CSS3` `JavaScript` `React.js` `Next.js` `Tailwind CSS` `Material UI` 
+#### 🧩 Frontend
+`React` • `Next.js` • `JavaScript (ES6+)` • `Tailwind CSS` • `Material UI` • `HTML5` • `CSS3`
 
 #### ⚙️ Backend
-`Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST API`
+`Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `REST API` • `JWT`
 
-#### 🎨 Design Tools
-`Figma` `Canva` `Photoshop`
-
-#### 💻 Others
-`Git` `GitHub` `VS Code` `Postman` `Render` `Vercel`
+#### 🎨 Design & Tools
+`Figma` • `Photoshop` • `Canva` • `Postman` • `Git` • `Vercel` • `Render`
 
 ---
 
-### 💼 Projects
+### 💼 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|----------|--------------|-------------|------------|
-| **Velonto Food Delivery** | MERN food delivery app with modern UI, filters, and cart system | MERN, Tailwind CSS | [Live Site](https://velonto.vercel.app) |
-| **Trendzio** | E-commerce platform for clothes, shoes, and watches | MERN Stack | [Live Site](https://trendzio.vercel.app) |
-| **Care Connect** | Medical care web app built during my internship | React, Node, MongoDB | — |
-| **Modern Chat App (UI Design)** | Figma-based modern chat app UI | Figma | — |
-
----
-
-### 🧠 Currently Exploring
-
-- ⚡ Advanced **Next.js 15**
-- 🎯 **UI Animations** with Framer Motion
-- 🧩 **TypeScript** for better scalability
+| 🧠 Project | 💡 Description | ⚙️ Tech Stack | 🔗 Demo |
+|-------------|----------------|---------------|----------|
+| **Velonto Food Delivery** | A MERN-based food delivery platform with cart, filters, and reviews | MERN, Tailwind CSS | [Live](https://velonto.vercel.app) |
+| **Trendzio** | Fashion eCommerce site for clothes, shoes & watches | MERN Stack | [Live](https://trendzio.vercel.app) |
+| **Care Connect** | Healthcare web app built during internship | React, Node, MongoDB | — |
+| **Modern Chat App (UI Design)** | Advanced chat app interface with best UI/UX | Figma | — |
 
 ---
 
-### 📈 GitHub Stats
+### ⚡ GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuthahir&show_icons=true&theme=tokyonight" alt="Abu Thahir GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abuthahir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuthahir&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuthahir&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuthahir&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://abu-thahir.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abu-thahir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abuthahir.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.figma.com/@abu-thahir" target="_blank"><img src="https://img.shields.io/badge/Figma-%23000000.svg?&style=for-the-badge&logo=figma&logoColor=white" /></a>
+  <a href="mailto:abuthahir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abu-thahir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://abu-thahir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.figma.com/@abu-thahir"><img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ *From [Abu Thahir](https://github.com/abuthahir)*
-
+<p align="center">✨ Crafted with passion by <b>Abu Thahir</b> ✨</p>
