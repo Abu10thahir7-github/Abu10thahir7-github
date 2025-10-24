@@ -1,7 +1,7 @@
 <!-- ⚡ Futuristic GitHub Profile README for Abu Thahir -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=Hey+👋+I'm+Abu+Thahir!;MERN+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Freelancer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=Hey+👋+I'm+Abu+Thahir!; MERN+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Freelancer+💻" />
 </h1>
 
 <h3 align="center">🚀 MERN Stack Developer | UI/UX Designer | Freelancer</h3>
