@@ -10,7 +10,7 @@
   <a href="mailto:abuthahir.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abu-thahir">
+  <a href="https://www.linkedin.com/in/abuthahir-es">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.figma.com/@abu-thahir">
