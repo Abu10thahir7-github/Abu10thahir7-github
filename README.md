@@ -1,10 +1,10 @@
 <!-- ⚡ Futuristic GitHub Profile README for Abu Thahir -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=Hey+👋+I'm+Abu+Thahir!;!MERN+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Freelancer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00BFFF&center=true&vCenter=true&lines=Hey+👋+I'm+Abu+Thahir!;!MERN+Stack+Developer+🚀;UI%2FUX+Designer+🎨;Freelancer+💻;Webdesigner🏜️" />
 </h1>
 
-<h3 background="white" align="center">🚀 MERN Stack Developer | UI/UX Designer | Freelancer</h3>
+<h3 background="white" align="center">🚀 MERN Stack Developer | UI/UX Designer | Freelancer | Webdesigner</h3>
 
 <p align="center">
   <a href="https://abu-thahir.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
@@ -72,7 +72,7 @@ I build **modern, scalable, and visually appealing digital experiences** — whe
 ### 🤝 Connect With Me  
 
 <p align="center">
-  <a href="mailto:abuthahir.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abu10thahir7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abuthahir-es"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://abu-thahir.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
   <a href="https://www.figma.com/@abu-thahir"><img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=white"/></a>
