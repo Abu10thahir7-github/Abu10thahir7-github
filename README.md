@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://abu-thahir.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF"/></a>
-  <a href="mailto:abuthahir.dev@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abu10thahir7@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abuthahir-es"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.figma.com/@abu-thahir"><img src="https://img.shields.io/badge/🎨_Figma-000?style=for-the-badge&logo=figma&logoColor=white"/></a>
 </p>
