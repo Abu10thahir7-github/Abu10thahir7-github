@@ -169,7 +169,7 @@ const abuThahir = {
 
 | &nbsp; | Project | Description | Stack | Demo |
 |:---:|:---|:---|:---|:---:|
-| ⚡ | **Adidas F50 Cinematic Site** | Next.js + GSAP ScrollTrigger — scroll-animated cinematic football experience | Next.js, GSAP, Tailwind | 🔒 WIP |
+| ⚡ | **Adidas F50 Cinematic Site** | Next.js + GSAP ScrollTrigger — scroll-animated cinematic football experience | Next.js, GSAP, Tailwind | [▶ Live](https://gsap-addidas-web.vercel.app/) |
 | 🍕 | **Velonto Food Delivery** | Full-stack food platform with cart, filters, auth & COD payment | MERN, Tailwind | [▶ Live](https://velonto.vercel.app) |
 | 👗 | **Trendzio eCommerce** | Fashion store for clothes, shoes & watches with full MERN backend | MERN Stack | [▶ Live](https://trendzio.vercel.app) |
 | 🏥 | **Care Connect** | Healthcare web app built during Softroniics internship | React, Node, MongoDB | — |
