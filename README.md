@@ -167,14 +167,15 @@ const abuThahir = {
 
 <div align="center">
 
-| &nbsp; | Project | Description | Stack | Demo |
-|:---:|:---|:---|:---|:---:|
-| ⚡ | **Score90X - Live Score dasboard** | MERN stack + Next.js, Score90X — Live score  | Next.js, Express, Tailwind | [▶ Live]([https://gsap-addidas-web.vercel.app/](https://world-cup-score90-x.vercel.app/) |
-| ⚡ | **Adidas F50 Cinematic Site** | Next.js + GSAP ScrollTrigger — scroll-animated cinematic football experience | Next.js, GSAP, Tailwind | [▶ Live](https://gsap-addidas-web.vercel.app/) |
-| 🍕 | **Velonto Food Delivery** | Full-stack food platform with cart, filters, auth & COD payment | MERN, Tailwind | [▶ Live](https://velonto.vercel.app) |
-| 👗 | **Trendzio eCommerce** | Fashion store for clothes, shoes & watches with full MERN backend | MERN Stack | [▶ Live](https://trendzio.vercel.app) |
-| 🏥 | **Care Connect** | Healthcare web app built during Softroniics internship | React, Node, MongoDB | — |
-| 💬 | **Modern Chat UI** | Futuristic chat interface designed with best UX principles | Figma | — |
+| 💼 Project | 📝 Description | 🛠 Tech Stack | 🌐 Live Demo |
+|:---|:---|:---|:---:|
+| ⚙️ **Free Online Tools** | 37+ browser-based utilities including image, PDF, audio, developer, and SEO tools with a modern, fast, responsive UI. | Next.js, Express.js, MongoDB, Tailwind CSS, TypeScript | [▶ Live](https://freetooly.webforges.site/) |
+| ⚽ **Score90X – Live Football Dashboard** | Real-time football scores, fixtures, standings, player stats, and match insights with a modern sports dashboard. | Next.js, Express.js, Tailwind CSS, Football API | [▶ Live](https://world-cup-score90-x.vercel.app/) |
+| 👟 **Adidas F50 Cinematic Experience** | Scroll-driven cinematic landing page inspired by Adidas F50 using immersive GSAP animations and premium UI. | Next.js, GSAP, Tailwind CSS | [▶ Live](https://gsap-addidas-web.vercel.app/) |
+| 🍕 **Velonto Food Delivery** | Full-stack food ordering platform with authentication, cart, search, filtering, and Cash on Delivery support. | MERN Stack, Tailwind CSS | [▶ Live](https://velonto.vercel.app/) |
+| 👗 **Trendzio eCommerce** | Modern fashion eCommerce platform featuring products, authentication, cart, wishlist, and admin management. | MERN Stack, Tailwind CSS | [▶ Live](https://trendzio.vercel.app/) |
+| 🏥 **Care Connect** | Healthcare management platform developed during my MERN Stack internship at Softroniics. | React.js, Node.js, Express.js, MongoDB | — |
+| 💬 **Modern Chat UI** | Minimal, futuristic chat application interface focused on user experience and clean visual design. | Figma, UI/UX Design | — |
 
 </div>
 
